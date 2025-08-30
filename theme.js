@@ -43,7 +43,7 @@ const colors = {
 
   backgroundColor: nord.nord0,
   foregroundColor: nord.nord4,
-  cursorColor: nord.nord4,
+  cursorColor: nord.nord15,
 };
 
 t.prefs_.set("color-palette-overrides", [
